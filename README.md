@@ -1,5 +1,8 @@
-# capstone
-capstone project for data scientist nano degree
+# Capstone
+Capstone project for data scientist nano degree
+
+# Medium Poster Link:
+https://medium.com/@tongxiaoling1022/create-a-customer-segmentation-report-for-arvato-financial-solutions-udacity-data-scientist-bb1194218e82
 
 # Udacity_data_scientist_capstone_project
 ## Arvato customer segmentation and prediction
