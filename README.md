@@ -35,7 +35,9 @@ use the obtained information to build a model to predict customers that can be t
 
 - Readme.md
 - Scipt for the project execution 
+- Predicted results on the test data
 
+## Other files that related to this project but not uploaded
 There are four data files associated with this project:
 
 - Udacity_AZDIAS_052018.csv: Demographics data for the general population of Germany; 891 211 persons (rows) x 366 features (columns).
@@ -46,6 +48,14 @@ There are four data files associated with this project:
 There are also three spreadsheets to decribe features in the data:
 - DIAS Information Levels - Attributes 2017.xlsx: Information for the feature levels 
 - DIAS Attributes - Values 2017.xlsx: Information for description and value meaning of each feature
+- feature_info_reorganixed.csv: Reorgnized feature infomation datasheet to make it consistent with the population dataset
 
 ## Results summary
+K-means clustering found money-savers and people owning high-end cars are most likely to be customers, and people with low income,living in rural area and possibly much old in age are unlikely to be customers. 
+Supervised learning model were trained and tested based on labeled data; it was used to predict the responders in the Kaggle Competition.
+
+## Acknowledge
+I would like to thank Arvato Bertelsman providing the dataset for our capstone project, and also the help I received from all Udacity mentors and students.
+
+## 
 
